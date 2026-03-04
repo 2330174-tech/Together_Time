@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "138287201680",
+    "project_id": "spotify-jam-bf50b",
+    "storage_bucket": "spotify-jam-bf50b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138287201680:android:091a4de058d6545d27c715",
+        "android_client_info": {
+          "package_name": "AndroidManifest.xml"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1qKx5hhrDVtLEfaE1cIunDRsOiAi5ppA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138287201680:android:ca53853436fd990927c715",
+        "android_client_info": {
+          "package_name": "com.prateek.syncm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1qKx5hhrDVtLEfaE1cIunDRsOiAi5ppA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
